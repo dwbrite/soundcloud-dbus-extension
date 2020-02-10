@@ -1,0 +1,7 @@
+{
+  "name": "com.dwbrite.toast",
+  "description": "Example host for native messaging",
+  "path": "/home/dwbrite/code/exploration/toast/go-toast/go-toast",
+  "type": "stdio",
+  "allowed_extensions": [ "toast@dwbrite.com" ]
+}
